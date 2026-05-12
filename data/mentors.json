@@ -1245,12 +1245,34 @@
   },
   "libssh": {
     "org": "libssh",
-    "ideasUrl": "https://gitlab.com/libssh/libssh-mirror/-/wikis/Google-Summer-of-Code",
-    "channels": [],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "fetch-failed",
+    "ideasUrl": "https://www.libssh.org/development/google-summer-of-code/",
+    "channels": [
+      {
+        "type": "matrix",
+        "url": "https://matrix.to/#/#libssh:matrix.org"
+      }
+    ],
+    "mentors": [
+      {
+        "name": "Jakub Jelen",
+        "github": "jakuje"
+      },
+      {
+        "name": "Sahana Prasad",
+        "github": "saprasad"
+      },
+      {
+        "name": "Eshan Kelkar",
+        "github": "eshan_k"
+      },
+      {
+        "name": "Andreas Schneider",
+        "github": "asn"
+      }
+    ],
+    "mailingLists": ["https://www.libssh.org/communication/"],
+    "tip": "Join the libssh mailing list and interact before applying. A non-trivial merge request on GitLab is required before proposals are considered.",
+    "status": "ok",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "Liquid Galaxy project": {
