@@ -2864,19 +2864,30 @@
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "Zulip": {
-    "org": "Zulip",
-    "ideasUrl": "https://github.com/zulip/zulip/wiki/GSoC-2026",
-    "channels": [
-      {
-        "type": "Zulip",
-        "url": "https://zulip.com/development-community/",
-        "label": "development community chat"
-      }
-    ],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "Post a new topic in the GSoC stream with your background and interest.",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  }
+  "org": "Zulip",
+  "ideasUrl": "https://zulip.readthedocs.io/en/latest/outreach/gsoc.html",
+  "channels": [
+    {
+      "type": "Zulip",
+      "url": "https://chat.zulip.org",
+      "label": "Zulip development community chat"
+    }
+  ],
+  "mentors": [
+    { "name": "Tim Abbott", "github": "timabbott" },
+    { "name": "Zixuan James Li", "github": "PIG208" },
+    { "name": "Prakhar Pratyush", "github": "PrakharPratyush" },
+    { "name": "Niloth", "github": "Niloth-p" },
+    { "name": "Lauryn Menard", "github": "laurynmenard" },
+    { "name": "Aman Agrawal", "github": "amanagr" },
+    { "name": "Anders Kaseorg", "github": "andersk" },
+    { "name": "Greg Price", "github": "gnprice" },
+    { "name": "Alya Abbott", "github": "alya" },
+    { "name": "Neil Pilgrim", "github": "neiljp" }
+  ],
+  "mailingLists": [],
+  "tip": "Join chat.zulip.org and introduce yourself in #new members. Ask questions in #development help. Never DM core contributors directly.",
+  "status": "ok",
+  "lastFetched": "2026-05-09T16:09:12.548Z"
+}
 }
