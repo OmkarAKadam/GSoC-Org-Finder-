@@ -2853,41 +2853,63 @@
     "channels": [
       {
         "type": "Zulip",
-        "url": "https://wikimedia.zulipchat.com/",
-        "label": "Wikimedia Foundation Zulip"
+        "url": "https://wikimedia.zulipchat.com/#narrow/channel/561533-GSoC2026",
+        "label": "Wikimedia GSoC 2026 Zulip"
       }
     ],
-    "mentors": [],
+    "mentors": [
+      { "name": "Parthiv Menon", "github": "theprotonade" },
+      { "name": "Satdeep Gill", "github": "SGill" },
+      { "name": "Nokib Sarkar", "github": "Nokib_Sarkar" },
+      { "name": "Tiven Gonsalves", "github": "Tiven2240" },
+      { "name": "Peter F. Patel-Schneider", "github": "" },
+      { "name": "David Martin", "github": "" },
+      { "name": "Nicolas Raoul", "github": "Nicolas_Raoul" },
+      { "name": "Ritika Pahwa", "github": "RitikaPahwa4444" },
+      { "name": "Jay Prakash", "github": "Jayprakash12345" },
+      { "name": "Krishna Chaitanya Velaga", "github": "KCVelaga" },
+      { "name": "Sage Ross", "github": "Ragesoss" },
+      { "name": "Abishek Das", "github": "Abishekdascs" },
+      { "name": "Andrew McAllister", "github": "AndrewTavis" },
+      { "name": "Henrik Thomasson", "github": "Henrikt93" },
+      { "name": "Akindele Michael", "github": "DeleMike" },
+      { "name": "Parashar Sarthak", "github": "ParasharSarthak" },
+      { "name": "Jnanaranjan Sahu", "github": "Jnanaranjan_sahu" },
+      { "name": "Lani Goto", "github": "" },
+      { "name": "Gopa Vasanth", "github": "" },
+      { "name": "Mahfuza Mohona", "github": "" },
+      { "name": "Osuolale Marv", "github": "" }
+    ],
     "mailingLists": [],
-    "tip": "Post a new topic in the GSoC stream with your background and interest.",
+    "tip": "Communicate in public Zulip streams, not private messages. See mediawiki.org for the step-by-step application process.",
     "status": "ok",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "Zulip": {
-  "org": "Zulip",
-  "ideasUrl": "https://zulip.readthedocs.io/en/latest/outreach/gsoc.html",
-  "channels": [
-    {
-      "type": "Zulip",
-      "url": "https://chat.zulip.org",
-      "label": "Zulip development community chat"
-    }
-  ],
-  "mentors": [
-    { "name": "Tim Abbott", "github": "timabbott" },
-    { "name": "Zixuan James Li", "github": "PIG208" },
-    { "name": "Prakhar Pratyush", "github": "PrakharPratyush" },
-    { "name": "Niloth", "github": "Niloth-p" },
-    { "name": "Lauryn Menard", "github": "laurynmenard" },
-    { "name": "Aman Agrawal", "github": "amanagr" },
-    { "name": "Anders Kaseorg", "github": "andersk" },
-    { "name": "Greg Price", "github": "gnprice" },
-    { "name": "Alya Abbott", "github": "alya" },
-    { "name": "Neil Pilgrim", "github": "neiljp" }
-  ],
-  "mailingLists": [],
-  "tip": "Join chat.zulip.org and introduce yourself in #new members. Ask questions in #development help. Never DM core contributors directly.",
-  "status": "ok",
-  "lastFetched": "2026-05-09T16:09:12.548Z"
-}
+    "org": "Zulip",
+    "ideasUrl": "https://zulip.readthedocs.io/en/latest/outreach/gsoc.html",
+    "channels": [
+      {
+        "type": "Zulip",
+        "url": "https://chat.zulip.org",
+        "label": "Zulip development community chat"
+      }
+    ],
+    "mentors": [
+      { "name": "Tim Abbott", "github": "timabbott" },
+      { "name": "Zixuan James Li", "github": "PIG208" },
+      { "name": "Prakhar Pratyush", "github": "PrakharPratyush" },
+      { "name": "Niloth", "github": "Niloth-p" },
+      { "name": "Lauryn Menard", "github": "laurynmenard" },
+      { "name": "Aman Agrawal", "github": "amanagr" },
+      { "name": "Anders Kaseorg", "github": "andersk" },
+      { "name": "Greg Price", "github": "gnprice" },
+      { "name": "Alya Abbott", "github": "alya" },
+      { "name": "Neil Pilgrim", "github": "neiljp" }
+    ],
+    "mailingLists": [],
+    "tip": "Join chat.zulip.org and introduce yourself in #new members. Ask questions in #development help. Never DM core contributors directly.",
+    "status": "ok",
+    "lastFetched": "2026-05-09T16:09:12.548Z"
+  }
 }
