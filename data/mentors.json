@@ -1364,66 +1364,38 @@
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "MDAnalysis": {
-    "org": "MDAnalysis",
-    "ideasUrl": "https://github.com/MDAnalysis/mdanalysis/wiki/Google-Summer-of-Code",
-    "channels": [],
-    "mentors": [
-      {
-        "name": "",
-        "github": "BradyAJohnston",
-        "githubUrl": "https://github.com/BradyAJohnston"
-      },
-      {
-        "name": "",
-        "github": "orbeckst",
-        "githubUrl": "https://github.com/orbeckst"
-      },
-      {
-        "name": "",
-        "github": "talagayev",
-        "githubUrl": "https://github.com/talagayev"
-      },
-      {
-        "name": "",
-        "github": "yuxuanzhuang",
-        "githubUrl": "https://github.com/yuxuanzhuang"
-      },
-      {
-        "name": "",
-        "github": "ltchong",
-        "githubUrl": "https://github.com/ltchong"
-      },
-      {
-        "name": "",
-        "github": "nilay-v3rma",
-        "githubUrl": "https://github.com/nilay-v3rma"
-      },
-      {
-        "name": "",
-        "github": "jennaswa",
-        "githubUrl": "https://github.com/jennaswa"
-      },
-      {
-        "name": "",
-        "github": "IAlibay",
-        "githubUrl": "https://github.com/IAlibay"
-      },
-      {
-        "name": "",
-        "github": "HeydenLabASU",
-        "githubUrl": "https://github.com/HeydenLabASU"
-      },
-      {
-        "name": "",
-        "github": "amruthesht",
-        "githubUrl": "https://github.com/amruthesht"
-      }
-    ],
-    "mailingLists": [],
-    "tip": "",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  },
+  "org": "MDAnalysis",
+  "ideasUrl": "https://github.com/MDAnalysis/mdanalysis/wiki/Google-Summer-of-Code",
+  "channels": [
+    {
+      "type": "Discord",
+      "url": "https://discord.com/channels/807348386012987462/",
+      "label": "MDAnalysis Discord"
+    },
+    {
+      "type": "GitHub Discussions",
+      "url": "https://github.com/MDAnalysis/mdanalysis/discussions",
+      "label": "MDAnalysis GSoC Discussions"
+    }
+  ],
+  "mentors": [
+    { "name": "Brady Johnston", "github": "BradyAJohnston", "githubUrl": "https://github.com/BradyAJohnston" },
+    { "name": "Oliver Beckstein", "github": "orbeckst", "githubUrl": "https://github.com/orbeckst" },
+    { "name": "Valerij Talagayev", "github": "talagayev", "githubUrl": "https://github.com/talagayev" },
+    { "name": "Yuxuan Zhuang", "github": "yuxuanzhuang", "githubUrl": "https://github.com/yuxuanzhuang" },
+    { "name": "Lillian Chong", "github": "ltchong", "githubUrl": "https://github.com/ltchong" },
+    { "name": "Nilay Verma", "github": "nilay-v3rma", "githubUrl": "https://github.com/nilay-v3rma" },
+    { "name": "Jenna Swarthout Goddard", "github": "jennaswa", "githubUrl": "https://github.com/jennaswa" },
+    { "name": "Irfan Alibay", "github": "IAlibay", "githubUrl": "https://github.com/IAlibay" },
+    { "name": "Matthias Heyden", "github": "HeydenLabASU", "githubUrl": "https://github.com/HeydenLabASU" },
+    { "name": "Amru Thirumalaiswamy", "github": "amruthesht", "githubUrl": "https://github.com/amruthesht" },
+    { "name": "Jeremy Leung", "github": "jeremyleung521", "githubUrl": "https://github.com/jeremyleung521" }
+  ],
+  "mailingLists": [],
+  "tip": "Submit a pre-proposal before the full application. Engage via GitHub Discussions. Do not use generative AI in your proposal.",
+  "status": "ok",
+  "lastFetched": "2026-05-09T16:09:12.548Z"
+},
   "Meshery": {
     "org": "Meshery",
     "ideasUrl": "https://github.com/meshery/meshery/wiki/GSoC-2026",
