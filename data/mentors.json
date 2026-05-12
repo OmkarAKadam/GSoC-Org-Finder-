@@ -2841,9 +2841,16 @@
         "label": "webpack Discord"
       }
     ],
-    "mentors": [],
+    "mentors": [
+      { "name": "Claudio Wunder", "github": "ovflowd" },
+      { "name": "Sebastian Beltran", "github": "sebseb7" },
+      { "name": "Aviv Keller", "github": "RedYetiDev" },
+      { "name": "Even Stensberg", "github": "evenstensberg" },
+      { "name": "Nitin Kumar", "github": "snitin315" },
+      { "name": "Alexander Akait", "github": "alexander-akait" }
+    ],
     "mailingLists": [],
-    "tip": "Introduce yourself in the public channel before asking project-specific questions.",
+    "tip": "Introduce yourself in the Discord before asking project-specific questions. Contact: evenstensberg@gmail.com",
     "status": "ok",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
