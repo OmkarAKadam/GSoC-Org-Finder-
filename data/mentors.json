@@ -1209,12 +1209,44 @@
   },
   "LibreCube Initiative": {
     "org": "LibreCube Initiative",
-    "ideasUrl": "https://librecube.org/gsoc/",
-    "channels": [],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "fetch-failed",
+    "ideasUrl": "https://librecube.org/google-summer-of-code/",
+    "channels": [
+      {
+        "type": "chat",
+        "url": "http://chat.librecube.org",
+        "label": "LibreCube Chat"
+      }
+    ],
+    "mentors": [
+      {
+        "name": "Artur Scholz",
+        "github": "ArturScholz",
+        "email": "artur@librecube.org"
+      },
+      {
+        "name": "Shayan Majumder",
+        "github": "ShayanMajumder",
+        "email": "shayan@librecube.org"
+      },
+      {
+        "name": "Tamara H",
+        "github": "Tamara H",
+        "email": "tamara@librecube.org"
+      },
+      {
+        "name": "Peter Mader",
+        "github": "ptrmdr",
+        "email": "peter.mader@librecube.org"
+      },
+      {
+        "name": "Sai",
+        "github": "",
+        "email": ""
+      }
+    ],
+    "mailingLists": ["gsoc@librecube.org"],
+    "tip": "Email mentors directly with gsoc@librecube.org in copy. Include your background, skills, and which project interests you.",
+    "status": "ok",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "LibreHealth": {
