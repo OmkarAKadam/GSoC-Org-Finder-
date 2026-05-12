@@ -2822,15 +2822,28 @@
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
   "Wagtail": {
-    "org": "Wagtail",
-    "ideasUrl": "https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2026",
-    "channels": [],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  },
+  "org": "Wagtail",
+  "ideasUrl": "https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2026",
+  "channels": [
+    {
+      "type": "GitHub Discussions",
+      "url": "https://github.com/wagtail/gsoc/discussions",
+      "label": "Wagtail GSoC Discussions"
+    }
+  ],
+  "mentors": [
+    { "name": "Thibaud Colas", "github": "thibaudcolas" },
+    { "name": "Meagen Voss", "github": "vossisboss" },
+    { "name": "Scott Cranfill", "github": "Scotchester" },
+    { "name": "Coen van der Kamp", "github": "allcaps" },
+    { "name": "Paarth Agarwal", "github": "PaarthAgarwal" },
+    { "name": "Sage Abdullah", "github": "laymonage" }
+  ],
+  "mailingLists": [],
+  "tip": "Use the dedicated GitHub Discussions thread for each project to ask questions. Read the contributor guide at wagtail.org/gsoc-guide/ before reaching out.",
+  "status": "ok",
+  "lastFetched": "2026-05-09T16:09:12.548Z"
+},
   "webpack": {
     "org": "webpack",
     "ideasUrl": "https://github.com/webpack/webpack/wiki/GSoC-2026",
