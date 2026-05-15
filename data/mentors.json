@@ -1313,17 +1313,17 @@
     "org": "MDAnalysis",
     "ideasUrl": "https://github.com/MDAnalysis/mdanalysis/wiki/Google-Summer-of-Code",
     "channels": [
-  {
-    "type": "Discord",
-    "url": "https://discord.gg/fXTSfDJyxE",
-    "label": "MDAnalysis Discord"
-  },
-  {
-    "type": "GitHub Discussions",
-    "url": "https://github.com/MDAnalysis/mdanalysis/discussions",
-    "label": "MDAnalysis Discussions"
-  }
-],
+      {
+        "type": "Discord",
+        "url": "https://discord.gg/fXTSfDJyxE",
+        "label": "MDAnalysis Discord"
+      },
+      {
+        "type": "GitHub Discussions",
+        "url": "https://github.com/MDAnalysis/mdanalysis/discussions",
+        "label": "MDAnalysis Discussions"
+      }
+    ],
     "mentors": [
       {
         "name": "Brady Johnston",
@@ -1376,7 +1376,13 @@
         "githubUrl": "https://github.com/amruthesht"
       }
     ],
-    "mailingLists": [],
+    "mailingLists": [
+      {
+        "type": "Mailing List",
+        "url": "https://groups.google.com/g/mdnalysis-discussion",
+        "label": "MDAnalysis Discussion Group"
+      }
+    ],
     "tip": "Review the MDAnalysis GSoC ideas page and engage with the community before submitting a proposal.",
     "status": "ok",
     "lastFetched": "2026-05-09T16:09:12.548Z"
