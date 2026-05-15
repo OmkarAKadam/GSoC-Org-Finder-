@@ -1312,7 +1312,18 @@
   "MDAnalysis": {
     "org": "MDAnalysis",
     "ideasUrl": "https://github.com/MDAnalysis/mdanalysis/wiki/Google-Summer-of-Code",
-    "channels": [],
+    "channels": [
+  {
+    "type": "Discord",
+    "url": "https://discord.gg/fXTSfDJyxE",
+    "label": "MDAnalysis Discord"
+  },
+  {
+    "type": "GitHub Discussions",
+    "url": "https://github.com/MDAnalysis/mdanalysis/discussions",
+    "label": "MDAnalysis Discussions"
+  }
+],
     "mentors": [
       {
         "name": "Brady Johnston",
@@ -1355,7 +1366,7 @@
         "githubUrl": "https://github.com/IAlibay"
       },
       {
-        "name": "Heyden Lab",
+        "name": "Matthias Heyden",
         "github": "HeydenLabASU",
         "githubUrl": "https://github.com/HeydenLabASU"
       },
